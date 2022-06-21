@@ -67,7 +67,7 @@
                 <div class="container-fluid">
                     <div class="row-fluid table sequence">
 
-                        <div class="col-md-4 text-middle text-light" data-bgimage="url(images/misc/pic_1.jpg)">
+                        <div class="col-md-4 text-middle text-light" data-bgimage="url(images/misc/shubham-dhage-fmCr42xCLtk-unsplash.webp)">
                             <div class="padding80">
                             </div>
                         </div>
@@ -82,7 +82,7 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
                             </div>
                         </div>
 
-                        <div class="col-md-4 text-middle text-light" data-bgimage="url(images/misc/pic_2.jpg)">
+                        <div class="col-md-4 text-middle text-light" data-bgimage="url(images/misc/sajad-nori-XihAgOYNHn4-unsplash.webp)">
                             <div class="padding80">
                             </div>
                         </div>
@@ -98,14 +98,14 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
                             </div>
                         </div>
 
-                        <div class="col-md-4 text-middle" data-bgimage="url(images/misc/pic_3.jpg)">
+                        <div class="col-md-4 text-middle" data-bgimage="url(images/misc/scott-graham-5fNmWej4tAA-unsplash.webp)">
                             <div class="padding80">
                             </div>
                         </div>
 
                         <div class="col-md-4 text-middle" data-bgcolor="#f6f6f6">
                             <div class="padding60 padding-sm-30">
-                                <h2>    <span class="tiny-border"></span></h2>
+                                <h2>Portfolio Management    <span class="tiny-border"></span></h2>
                                 JNC FinTech is one of the fastest-growing Portfolio Management firms in India. Our firm philosophy of ‘Ideas creates, values protect’ is into an approach led by entrepreneurship, research, and creativity, protected by intellectual rigor and analysis. We serve an array of – New Age Entrepreneurs, Business Owners/ Promoters, Family Offices, CXOs, and Corporate Treasuries.
                             </div>
                         </div>
@@ -116,46 +116,7 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
             </section>
             <!-- section close -->
 
-            <!-- section begin -->
-            <section id="section-fun-facts" class="pt60 pb60">
-                <div class="container">
-
-                    <div class="row">
-                        <div class="col-md-3 wow fadeIn" data-wow-delay="0">
-                            <div class="de_count">
-                                <i class="icon_clock_alt id-color" data-animation="fadeInDown" data-delay="0"></i>
-                                <h3 class="timer" data-to="8350" data-speed="2500">0</h3>
-                                <span>Hours of Works</span>
-                            </div>
-                        </div>
-
-                        <div class="col-md-3 wow fadeIn" data-wow-delay=".25s">
-                            <div class="de_count">
-                                <i class="icon_documents_alt  id-color" data-animation="fadeInDown" data-delay="200"></i>
-                                <h3 class="timer" data-to="240" data-speed="2500">0</h3>
-                                <span>Projects Complete</span>
-                            </div>
-                        </div>
-
-                        <div class="col-md-3 wow fadeIn" data-wow-delay=".5s">
-                            <div class="de_count">
-                                <i class="icon_comment_alt  id-color" data-animation="fadeInDown" data-delay="400"></i>
-                                <h3 class="timer" data-to="120" data-speed="2500">0</h3>
-                                <span>Feedback Received</span>
-                            </div>
-                        </div>
-
-                        <div class="col-md-3 wow fadeIn" data-wow-delay=".75s">
-                            <div class="de_count">
-                                <i class="icon_globe id-color" data-animation="fadeInDown" data-delay="600"></i>
-                                <h3 class="timer" data-to="20" data-speed="2500">0</h3>
-                                <span>Awards Winning</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- section close -->
+            
 
             <!-- section begin -->
             <section id="section-history" class="no-top no-bottom">
@@ -170,33 +131,29 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
 
                                 <div class="timeline">
                                     <div class="tl-block wow fadeInUp" data-wow-delay="0">
-                                        <div class="tl-time">
-                                            <h3>2006</h3>
-                                        </div>
+                                        
                                         <div class="tl-bar">
                                             <div class="tl-line"></div>
                                         </div>
                                         <div class="tl-message">
                                             <div class="tl-icon">&nbsp;</div>
                                             <div class="tl-main">
-                                                <h3>Beginning Our Services
+                                                <h3>Founded in 2021, we commenced operations as a technologically advanced banking services provider to make digital finance convenient for our users.
                                                 </h3>
-                                                Founded in 2021, we commenced operations as a technologically advanced banking services provider to make digital finance convenient for our users.
+                                                
                                             </div>
                                         </div>
                                     </div>
 
                                     <div class="tl-block wow fadeInUp" data-wow-delay=".3s">
-                                        <div class="tl-time">
-                                            <h3>2008</h3>
-                                        </div>
+                                        
                                         <div class="tl-bar">
                                             <div class="tl-line"></div>
                                         </div>
                                         <div class="tl-message">
                                             <div class="tl-icon">&nbsp;</div>
                                             <div class="tl-main">
-                                                <h3>Offering More Services
+                                                <h3>Since Our Inception
                                                 </h3>
                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                                             </div>
@@ -204,16 +161,28 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
                                     </div>
 
                                     <div class="tl-block wow fadeInUp" data-wow-delay=".6s">
-                                        <div class="tl-time">
-                                            <h3>2009</h3>
-                                        </div>
+                                        
                                         <div class="tl-bar">
                                             <div class="tl-line"></div>
                                         </div>
                                         <div class="tl-message">
                                             <div class="tl-icon">&nbsp;</div>
                                             <div class="tl-main">
-                                                <h3>Opening Our First Branch Office
+                                                <h3>We equip employee with the support
+                                                </h3>
+                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tl-block wow fadeInUp" data-wow-delay=".6s">
+                                        
+                                        <div class="tl-bar">
+                                            <div class="tl-line"></div>
+                                        </div>
+                                        <div class="tl-message">
+                                            <div class="tl-icon">&nbsp;</div>
+                                            <div class="tl-main">
+                                                <h3>Our team believes in reliable banking services
                                                 </h3>
                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                                             </div>
@@ -223,7 +192,7 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
 
                                 <div class="spacer-single"></div>
 
-                                <a href="contact.html" class="btn btn-line-white btn-fx pull-right">Read More</a>
+                                <a href="about.php" class="btn btn-line-white btn-fx pull-right">Read More</a>
 
 
                                 <div class="spacer-single"></div>
@@ -241,67 +210,7 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
             </section>
             <!-- section close -->
 			
-			<!-- section begin -->
-            <section id="section-skills" class="no-top no-bottom">
-                <div class="container-fluid">
-                    <div class="row-fluid table">
-
-                        <div class="col-md-5" data-bgimage="url(images/background/bg-9.jpg)">
-                        </div>
-                        <div class="col-md-7 text-light" data-bgcolor="#222">
-
-
-                            <div class="padding60 padding-sm-30">
-
-                                <h2>Our Skills<span class="tiny-border"></span></h2>
-
-                                <div class="skill-bar">
-                                    <h3>General Consulting</h3>
-                                    <div class="de-progress">
-                                        <div class="progress-bar" data-value="80%">
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="spacer-single"></div>
-
-                                <div class="skill-bar">
-                                    <h3>Construction Management</h3>
-                                    <div class="de-progress">
-                                        <div class="progress-bar" data-value="70%">
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="spacer-single"></div>
-
-                                <div class="skill-bar">
-                                    <h3>Design &amp; Build</h3>
-                                    <div class="de-progress">
-                                        <div class="progress-bar" data-value="90%">
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="spacer-single"></div>
-
-
-                                <div class="skill-bar">
-                                    <h3>Special Projects</h3>
-                                    <div class="de-progress">
-                                        <div class="progress-bar" data-value="60%">
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-            </section>
-            <!-- section close -->
+			
 			
 			<!-- section begin -->
             <section id="section-portfolio" aria-label="section-portfolio">
@@ -311,22 +220,11 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
                     <div class="row">
                         <div class="col-md-12">
                             <h2>Recent Works<span class="tiny-border"></span></h2>
-                            <ul id="filters">
-                                <li><a href="#" data-filter=".commercial">Commercial</a></li>
-                                <li><a href="#" data-filter=".education">Education</a></li>
-                                <li><a href="#" data-filter=".hospitaly">Hospitaly</a></li>
-                                <li><a href="#" data-filter=".office">Office</a></li>
-                                <li><a href="#" data-filter=".residential">Residential</a></li>
-                                <li class="pull-right"><a href="#" data-filter="*" class="selected">All Projects</a></li>
-                            </ul>
-
                         </div>
                     </div>
                     <!-- portfolio filter close -->
 
                 </div>
-
-
                 <div class="container">
                     <div class="row">
 
@@ -348,84 +246,6 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
                                 </div>
                             </div>
                             <!-- close gallery item -->
-
-                            <!-- gallery item -->
-                            <div class="col-md-4 col-sm-6 col-xs-6 item sq-item commercial education">
-                                <div class="picframe wow">
-                                    <a href="project-details-2.html">
-                                        <span class="overlay">
-                                            <span class="pf_text">
-                                                <span class="project-name">Contemporary Building</span>
-                                            </span>
-                                        </span>
-                                    </a>
-
-                                    <img src="images/portfolio/pf%20(2).jpg" alt="" />
-                                </div>
-                            </div>
-                            <!-- close gallery item -->
-
-                            <!-- gallery item -->
-                            <div class="col-md-4 col-sm-6 col-xs-6 item sq-item commercial hospitaly">
-                                <div class="picframe wow">
-                                    <a href="project-details-3.html">
-                                        <span class="overlay">
-                                            <span class="pf_text">
-                                                <span class="project-name">Twin Tower</span>
-                                            </span>
-                                        </span>
-                                    </a>
-
-                                    <img src="images/portfolio/pf%20(3).jpg" alt="" />
-                                </div>
-                            </div>
-                            <!-- close gallery item -->
-
-                            <!-- gallery item -->
-                            <div class="col-md-4 col-sm-6 col-xs-6 item sq-item commercial hospitaly">
-                                <div class="picframe wow">
-                                    <a href="project-details-4.html">
-                                        <span class="overlay">
-                                            <span class="pf_text">
-                                                <span class="project-name">Modern Skyline</span>
-                                            </span>
-                                        </span>
-                                    </a>
-                                    <img src="images/portfolio/pf%20(4).jpg" alt="" />
-                                </div>
-                            </div>
-                            <!-- close gallery item -->
-
-                            <!-- gallery item -->
-                            <div class="col-md-4 col-sm-6 col-xs-6 item sq-item office commercial">
-                                <div class="picframe wow">
-                                    <a href="project-details-5.html">
-                                        <span class="overlay">
-                                            <span class="pf_text">
-                                                <span class="project-name">Modern Office</span>
-                                            </span>
-                                        </span>
-                                    </a>
-                                    <img src="images/portfolio/pf%20(5).jpg" alt="" />
-                                </div>
-                            </div>
-                            <!-- close gallery item -->
-
-                            <!-- gallery item -->
-                            <div class="col-md-4 col-sm-6 col-xs-6 item sq-item residential">
-                                <div class="picframe wow">
-                                    <a href="project-details-1.html">
-                                        <span class="overlay">
-                                            <span class="pf_text">
-                                                <span class="project-name">Country Side House</span>
-                                            </span>
-                                        </span>
-                                    </a>
-                                    <img src="images/portfolio/pf%20(6).jpg" alt="" />
-                                </div>
-                            </div>
-                            <!-- close gallery item -->
-
                         </div>
 
 
@@ -546,9 +366,9 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
                                         </div>
 
                                         <div class="post-text">
-                                            <h3><a href="css/#">5 Things That Take a Room from Good to Great</a></h3>
+                                            <h3><a href="css/#">Are you planning to buy a car?</a></h3>
                                             <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                            You might have thought of owning a swanky car. A good car loan can make car ownership easy, enjoyable, and stress-free.
 												<br>
                                                 <a href="#" class="read_more mt10">read more <i class="fa fa-chevron-right id-color"></i></a>
                                             </p>
@@ -565,9 +385,9 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
                                         </div>
 
                                         <div class="post-text">
-                                            <h3><a href="css/#">Functional and Stylish Wall-to-Wall Shelves</a></h3>
+                                            <h3><a href="css/#">3 easy ways for girls to generate additional income</a></h3>
                                             <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                            I was never wildly fascinated by materialistic items, but gifting a beautiful house to my father was my dream ever since I was a teen.
 												<br>
                                                 <a href="#" class="read_more mt10">read more <i class="fa fa-chevron-right id-color"></i></a>
                                             </p>
@@ -584,9 +404,9 @@ We offer professional, highly reliable expertise in blockchain-based banking. Ye
                                         </div>
 
                                         <div class="post-text">
-                                            <h3><a href="css/#">The 5 Secrets to Pulling Off Simple, Minimal Design</a></h3>
+                                            <h3><a href="css/#">Making 99% of the wealth after 50</a></h3>
                                             <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                            If a person says that he purchased his first shares at the age of 11 and that too he terms as of late, then it is for sure that.
 												<br>
                                                 <a href="#" class="read_more mt10">read more <i class="fa fa-chevron-right id-color"></i></a>
                                             </p>
